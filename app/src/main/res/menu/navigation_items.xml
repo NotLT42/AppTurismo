@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/find_menu"
+        android:title="Find packages"
+        android:icon="@drawable/baseline_find_in_page_24"
+        />
+    <item
+        android:id="@+id/favorites_menu"
+        android:title="Favorite packages"
+        android:icon="@drawable/baseline_favorite_24"
+        />
+</menu>
